@@ -3,6 +3,9 @@
 
 # Log file
 *.log
+.env
+target
+.idea/
 
 # BlueJ files
 *.ctxt
